@@ -6,3 +6,9 @@ src-folder
 added app.js , con...js,index.js
 
 then made folders -- controllers ,db,middlewares,models,routes,utils
+
+then we have setup the dev dependencies    "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.9.10"
+  }
+  
