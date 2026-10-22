@@ -12,3 +12,5 @@ then we have setup the dev dependencies    "devDependencies": {
     "prettier": "^3.9.10"
   }
   
+
+  next we have setup the database--properly
