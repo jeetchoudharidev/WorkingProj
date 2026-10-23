@@ -18,3 +18,8 @@ then we have setup the dev dependencies    "devDependencies": {
   now we moved to the cors and cokkieparcer in app.js--lect08
 
   middlewares 
+
+  the schema of the databse is being made in modals folder 
+
+  and learnt about the bcrypt and bcryptjs ,jwt(json web token )
+  payload==data only 
