@@ -14,3 +14,7 @@ then we have setup the dev dependencies    "devDependencies": {
   
 
   next we have setup the database--properly
+
+  now we moved to the cors and cokkieparcer in app.js--lect08
+
+  middlewares 
