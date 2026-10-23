@@ -23,3 +23,10 @@ then we have setup the dev dependencies    "devDependencies": {
 
   and learnt about the bcrypt and bcryptjs ,jwt(json web token )
   payload==data only 
+
+  then we have added the jwt(json-web-token) which  added up the token for the encrption and security 
+
+  now we are using multer as middleware and cloudinary
+  also learnt about the fs --> filesystem 
+
+  we setup upto now 
